@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="46.502654">
+    <testcase classname="Application Test" name="Home-Arrivals-Add to Basket-Items-Remove book" time="46.502654">
+        <system-out><![CDATA[Given Initialize the browser with chrome....................................passed
+And Navigate to "http://practice.automationtesting.in/" Site................passed
+And Click on Shop Menu......................................................passed
+And Now click on Home menu button...........................................passed
+When The Home page must contain only three Arrivals.........................passed
+And Now click the image in the Arrivals.....................................passed
+And Test whether it is navigating to next page where the user can add that book into his basket..passed
+And Image should be clickable and should navigate to next page where user can add that book to his basket.passed
+And Click on the Add To Basket button which adds that book to your basket...passed
+And User can view that Book in the Menu item with price.....................passed
+And Now click on Item link which navigates to proceed to check out page.....passed
+And Now click on Remove this icon in Check out page which removes that book from the grid..passed
+Then User has the feasibility to remove the book at the time of check out also.passed
+]]></system-out>
+    </testcase>
+</testsuite>
